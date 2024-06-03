@@ -1,4 +1,4 @@
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" height="300">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" height="400">
   <img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/codegif.gif" width="100%" height="200">
 
 <h1 align="center">Hi 👋, I'm Hasan! </h1>
