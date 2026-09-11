@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:hasan@example.com"><img src="https://img.shields.io/badge/Email-66CCFF?logo=gmail&logoColor=white" alt="Email" width="40" /></a>
-  <a href="https://www.linkedin.com/in/hasan-siddiqui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="40" /></a>
-  <a href="https://twitter.com/hasansiddiqui" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" width="40" /></a>
+  <a href="mailto:hasansiddiqui464@gmail.com"><img src="https://img.shields.io/badge/Email-66CCFF?logo=gmail&logoColor=white" alt="Email" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/hasan-siddiqui](https://www.linkedin.com/in/hasan-siddiqui-1a376228a/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="40" /></a>
+
 </p>
 
 <h3 align="left">About me</h3>
@@ -51,10 +51,6 @@
   <a href="https://github.com/muhammadhasansiddiqui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasansiddiqui&theme=blue-green" alt="GitHub Streak" /></a>
 </p>
 
-<h3 align="left">Featured Projects</h3>
-- [**ProjectOne**](https://github.com/muhammadhasansiddiqui/ProjectOne) – Short description of this project.
-- [**MyPortfolio**](https://github.com/muhammadhasansiddiqui/MyPortfolio) – Brief note on what it does (e.g. React/Nuxt site).
-- [**OpenSourceLib**](https://github.com/muhammadhasansiddiqui/OpenSourceLib) – A key contribution or side project.
 
 <h3 align="left">Contact</h3>
-<p align="left">Feel free to <a href="mailto:hasan@example.com">email me</a> or connect on LinkedIn to collaborate or chat. 👍</p>
+<p align="left">Feel free to <a href="mailto:hasansiddiqui464@gmail.com">email me</a> or connect on LinkedIn to collaborate or chat. 👍</p>
