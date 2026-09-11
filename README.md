@@ -1,110 +1,81 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/codegif.gif" width="100%" height="200">
 
-<img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/codegif.gif" width="100%" height="200"/>
+<h1 align="center">Hi 👋, I'm Hasan!</h1>
 
-# 👋 Hi, I'm Hasan Siddiqui
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-### 💻 Frontend Developer from Pakistan
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-**React.js • Next.js • Vue.js • React Native • Expo CLI**
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
+</a>
+
+<a href="https://expo.dev/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/expo/000000" alt="expo" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <a href="https://hasansiddiqui.netlify.app/">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/muhammadhasansiddiqui">🐙 GitHub</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhasansiddiqui&show_icons=true&locale=en&layout=compact" alt="muhammadhasansiddiqui" />
 </p>
 
-</div>
-
----
-
-## 🚀 About Me
-
-* 💻 Frontend Developer focused on modern web applications
-* ⚛️ React.js, Next.js & Vue.js
-* 📱 React Native & Expo CLI
-* 🎨 UI/UX & Responsive Web Design
-* 🔥 Firebase & Authentication
-* 🛠️ Git & GitHub
-* 🧩 Love building clean and practical projects
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="45" height="45" alt="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45" alt="Vue.js"/>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhasansiddiqui&show_icons=true&locale=en&count_private=true" alt="muhammadhasansiddiqui" />
 </p>
 
-### 📱 Mobile & Styling
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
-<img src="https://cdn.simpleicons.org/expo/000000" width="45" height="45" alt="Expo"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasansiddiqui" alt="muhammadhasansiddiqui" />
 </p>
-
-### 🔧 Tools & Backend
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadhasansiddiqui&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhasansiddiqui&layout=compact&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasansiddiqui&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://move-circle-game-hasan.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhasansiddiqui&repo=move-circle-game" />
-</a>
-
-<a href="https://weather-app-mhs.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhasansiddiqui&repo=weather-app" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something
-
-**Frontend Development • React • Mobile Apps • Web Applications**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadhasansiddiqui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
